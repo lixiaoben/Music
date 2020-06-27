@@ -14,8 +14,6 @@ import android.graphics.BitmapFactory.Options;
 import android.os.AsyncTask;
 
 import cn.tedu.music.app.MusicApplication;
-import cn.tedu.music.util.BitmapCallback;
-import cn.tedu.music.util.HttpUtils;
 
 /** 图片相关的工具类 */
 public class BitmapUtils {
